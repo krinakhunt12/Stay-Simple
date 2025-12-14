@@ -1,0 +1,5 @@
+{
+  "name": "StaySimple MVP",
+  "description": "A lightweight hotel booking MVP with real-time availability, admin dashboard, and AI concierge features.",
+  "requestFramePermissions": []
+}
